@@ -3,3 +3,5 @@
 - Meu nome é Camily Vitória
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+ttps://creativecommons.org/licenses/by/4.0/
